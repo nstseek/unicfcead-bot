@@ -1,1 +1,4 @@
 node_modules/
+chromium_tmp_dir/
+test-results/
+.env
