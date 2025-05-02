@@ -2,6 +2,8 @@
 
 This project is an automated captcha solver built using [Playwright](https://playwright.dev/) and the [2captcha](https://2captcha.com/) service. It demonstrates how to launch a Chromium browser instance, navigate to a page with a reCAPTCHA, and have it solved automatically using the 2captcha API.
 
+This project is still under development and it will have more functionalities soon.
+
 ## Features
 
 - **Automated Browser Control:** Uses Playwright to control a Chromium instance.
